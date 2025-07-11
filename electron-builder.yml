@@ -1,5 +1,5 @@
 appId: 'D.A.O'
-productName: 'D.A.O'
+productName: '두아온'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2025 gotiger (original author: © 2018-2025 Daniel Scalzi)'
